@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Models and weights
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Dataset folder (too large for GitHub)
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Personal
+Jupyter_App.ipynb
+*.txt
